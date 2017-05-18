@@ -13,6 +13,15 @@ Móvil con android (API 18+) para pruebas
 
 * [Android Studio](https://developer.android.com/studio/index.html) 
 
+## Imagenes
+
+![alt text](http://i.imgur.com/2vTZqnY.png "Logo Title Text 1")
+
+![alt text](http://i.imgur.com/IYDdQGc.png "Logo Title Text 1")
+
+![alt text](http://i.imgur.com/tiFnXRT.png "Logo Title Text 1")
+
+
 ## Licencia
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
